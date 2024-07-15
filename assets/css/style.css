@@ -1,0 +1,27 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #95cde6;
+    padding: 30px;
+}
+
+input {
+    width: 200px;
+}
+
+select {
+    width: 200px;
+}
